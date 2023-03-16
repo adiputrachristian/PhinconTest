@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Kingfisher (6.3.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Nimble (10.0.0)
+  - Quick (5.0.1)
+  - Realm (10.36.0):
+    - Realm/Headers (= 10.36.0)
+  - Realm/Headers (10.36.0)
+  - RealmSwift (10.36.0):
+    - Realm (= 10.36.0)
+  - SkeletonView (1.30.4)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Kingfisher (= 6.3.1)
+  - Moya (= 15.0)
+  - Nimble
+  - Quick
+  - RealmSwift
+  - SkeletonView (= 1.30.4)
+  - SnapKit (= 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Moya
+    - Nimble
+    - Quick
+    - Realm
+    - RealmSwift
+    - SkeletonView
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: 749aa754fd1e7d984f2000fe051e18a3a9809179
+  Realm: 3fd136cb4c83a927482a7f1612496d37beed3cf5
+  RealmSwift: 513d4dcbf5bfc4d573454088b592685fc48dd716
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 76d3aea4d3d24d8790ca078dc0be8d34c70677fe
+
+COCOAPODS: 1.11.2
